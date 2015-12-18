@@ -1,6 +1,6 @@
 // http://pac.itzmx.com
 
-var proxy = "PROXY 108.61.177.48:25";
+var proxy = "PROXY 192.157.230.134:25";
 
 var domains = {
   "bbc.com": 1,
