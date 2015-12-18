@@ -1,6 +1,4 @@
-// http://pac.itzmx.com
-// server01.pac.itzmx.com
-//http://tool.chinaz.com/dns/   for find the ture ip of  server01.pac.itzmx.com
+
 
 
 var proxy = "PROXY 192.157.230.134:25";
@@ -2628,3 +2626,5 @@ function FindProxyForURL(url, host) {
     }
     return direct;
 }
+// http://pac.itzmx.com
+//http://tool.chinaz.com/dns/  find the true ip of  server01.pac.itzmx.com  
