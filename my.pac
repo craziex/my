@@ -1,7 +1,7 @@
 
 
 
-var proxy = "PROXY 192.157.230.134:25";
+var proxy = "PROXY 159.106.121.75 :25";
 
 var domains = {
   "bbc.com": 1,
