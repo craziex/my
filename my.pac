@@ -1,6 +1,6 @@
 
-var proxy = "PROXY 192.157.230.134:25";
-
+var proxy = "PROXY 158.69.196.76:25";
+//var proxy = "PROXY 158.69.196.86:25"; check at 20160218
 var domains = {
   "bbc.com": 1,
   "ero-video.net": 1,
