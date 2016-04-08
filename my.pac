@@ -1,5 +1,6 @@
-//var proxy = "PROXY 158.69.196.86:25"; check at 20160408
-// http://pac.itzmx.com
+//var proxy = "PROXY 158.69.196.86:25"; 
+//check at 20160408
+// http://pac.itzmx.com     
 //http://tool.chinaz.com/dns/  find the true ip of  server01.pac.itzmx.com  
 var proxy = "PROXY 45.32.26.50:25";
 var domains = {
